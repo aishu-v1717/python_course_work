@@ -9,5 +9,5 @@ print(result)
 print("hello!.."*7)
 #indexing
 str="aishwarya"
-print(str[])
+print(str[0])  # first character
 
